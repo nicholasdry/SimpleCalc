@@ -6,4 +6,4 @@ A very simple and straight forward iOS calculator application in it's infancy. T
 
 ![alt tag](http://i.imgur.com/DIc5vPB.png = 250px)
 
-<a href="url"><img src="http://i.imgur.com/DIc5vPB.png" align="center" height="250" width="250" ></a>
+<a href="url"><img src="http://i.imgur.com/DIc5vPB.png" align="center" height="25" width="25" ></a>
